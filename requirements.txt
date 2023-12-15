@@ -1,0 +1,10 @@
+pandas
+Pillow
+python-dotenv
+Requests
+scikit_learn
+streamlit
+streamlit_option_menu
+transformers
+torch
+tensorflow
